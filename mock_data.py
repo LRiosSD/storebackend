@@ -6,6 +6,7 @@ catalog=[
     "title":"Bowl",
     "image":"bowl1.jpg",
     "price": 15.00,
+    "coupons": 1.0,
     "Catagory":"kitchen",
     },
     {
@@ -13,6 +14,7 @@ catalog=[
     "title":"Bowl",
     "image":"bowl2.jpg",
     "price": 15.00,
+    "coupons": 1.0,
     "Catagory":"kitchen",
     },
     {
@@ -20,6 +22,7 @@ catalog=[
     "title":"Bowl",
     "image":"bowl3.jpg",
     "price": 15.00,
+    "coupons": 1.0,
     "Catagory":"kitchen",
     },
     {
@@ -27,6 +30,7 @@ catalog=[
     "title":"Planter",
     "image":"planter1.jpg",
     "price": 30.00,
+    "coupons": 1.0,
     "Catagory":"garden",
     },
         {
@@ -34,6 +38,7 @@ catalog=[
     "title":"Planter",
     "image":"planter2.jpg",
     "price": 30.00,
+    "coupons": 1.0,
     "Catagory":"garden",
     },
         {
@@ -41,6 +46,7 @@ catalog=[
     "title":"Planter",
     "image":"planter3.jpg",
     "price": 30.00,
+    "coupons": 1.0,
     "Catagory":"garden",
     },
     {
@@ -48,6 +54,7 @@ catalog=[
     "title":"Cup",
     "image":"cup1.jpg",
     "price": 5.00,
+    "coupons": 1.0,
     "Catagory":"kitchen",
     },
     {
@@ -55,6 +62,7 @@ catalog=[
     "title":"Cup",
     "image":"cup2.jpg",
     "price": 5.00,
+    "coupons": 1.0,
     "Catagory":"kitchen",
     },
     {
@@ -62,6 +70,7 @@ catalog=[
     "title":"Cup",
     "image":"Cup3.jpg",
     "price": 5.00,
+    "coupons": 1.0,
     "Catagory":"kitchen",
     },
     {
@@ -69,6 +78,7 @@ catalog=[
     "title":"Platter",
     "image":"platter1.jpg",
     "price": 20.00,
+    "coupons": 1.0,
     "Catagory":"kitchen",
     },
     {
@@ -76,6 +86,7 @@ catalog=[
     "title":"Platter",
     "image":"platter2.jpg",
     "price": 20.00,
+    "coupons": 1.0,
     "Catagory":"kitchen",
     },
 {
@@ -83,6 +94,7 @@ catalog=[
     "title":"Platter",
     "image":"platter3.jpg",
     "price": 20.00,
+    "coupons": 1.0,
     "Catagory":"kitchen",
     },
     {
@@ -90,6 +102,7 @@ catalog=[
     "title":"Pets",
     "image":"cat.jpg",
     "price": 30.00,
+    "coupons": 1.0,
     "Catagory":"pet",
     },
     {
@@ -97,6 +110,7 @@ catalog=[
     "title":"Pets",
     "image":"dog.jpg",
     "price": 75.00,
+    "coupons": 1.0,
     "Catagory":"pet",
     },
     {
@@ -104,6 +118,7 @@ catalog=[
     "title":"Pet",
     "image":"frog.jpg",
     "price": 50.00,
+    "coupons": 1.0,
     "Catagory":"garden",
     },
     
@@ -111,7 +126,8 @@ catalog=[
     "_id":"16",
     "title":"Sink",
     "image":"sink.jpg",
-    "price": 150.00,""
+    "price": 150.00,
+    "coupons": 1.0,
     "Catagory":"home",
     },
     {
@@ -119,6 +135,7 @@ catalog=[
     "title":"Sink",
     "image":"sink2.jpg",
     "price": 150.00,
+    "coupons": 1.0,
     "Catagory":"home",
     },
     {
@@ -126,6 +143,7 @@ catalog=[
     "title":"Sink",
     "image":"sink3.jpg",
     "price": 200.00,
+    "coupons": 1.0,
     "Catagory":"home",
     }
 

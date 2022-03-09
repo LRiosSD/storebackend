@@ -12,3 +12,18 @@ Win:
 
 #install flask
 py 
+
+# initial setup of a git repository
+git init
+git add .
+git commit -m "anything"
+
+git remote add origin <url>
+git push -u origin master
+
+# later pushed
+git add .git commit -m "anything"
+git push
+
+#run the the server
+py server.py
